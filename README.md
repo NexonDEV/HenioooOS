@@ -2,10 +2,10 @@
 Web-based operating system by programmer Heniooo
 
 # => Informations <=
-System by: Heniooo
-Install script by: Nexon
-Scripts Ver: BUILD-BETA
-Demo: http://os.heniooo.pl/
+System by: Heniooo<br>
+Install script by: Nexon<br>
+Scripts Ver: BUILD-BETA<br>
+Demo: http://os.heniooo.pl/<br>
 
 # => Installation <=
 <b>Linux:</b>
